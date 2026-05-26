@@ -87,6 +87,20 @@ Senha:
 * As imagens dos veículos devem permanecer na pasta `imagens/`.
 * O projeto pode ser expandido com novos módulos, relatórios mais detalhados e integração com serviços externos.
 
-## Licença
 
-Projeto acadêmico desenvolvido para fins de estudo e portfólio.
+## Melhorias Futuras
+
+- Exportação de relatórios em PDF e Excel.
+- Integração com APIs de bancos para simulação financeira real.
+- Sistema de backup automático do banco de dados.
+- Dashboard com gráficos avançados e métricas em tempo real.
+- 
+
+
+Status do Projeto
+
+🚧 Projeto acadêmico.
+
+O AutoFacilDF foi desenvolvido para fins educacionais e de portfólio, aplicando conceitos de programação, banco de dados, interface gráfica e modelagem de sistemas.
+
+Embora o sistema já possua funcionalidades operacionais, ele ainda pode receber melhorias e novas funcionalidades futuramente, dependendo da continuidade do projeto.
